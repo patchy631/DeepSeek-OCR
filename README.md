@@ -44,12 +44,9 @@
 </p>
 </h2>
 
-<p align="center">
-<img src="assets/fig1.png" style="width: 1000px" align=center>
-</p>
-<p align="center">
-<a href="">Explore the boundaries of visual-text compression.</a>       
-</p>
+---
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Release
 - [2025/10/23]🚀🚀🚀 DeepSeek-OCR is now officially supported in upstream [vLLM](https://docs.vllm.ai/projects/recipes/en/latest/DeepSeek/DeepSeek-OCR.html#installing-vllm). Thanks to the [vLLM](https://github.com/vllm-project/vllm) team for their help.
