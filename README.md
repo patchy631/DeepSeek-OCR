@@ -19,32 +19,12 @@
 
 </div>
 
-<div align="center">
-
-  <a href="https://discord.gg/Tc7c45Zzu5" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-DeepSeek%20AI-7289da?logo=discord&logoColor=white&color=7289da" />
-  </a>
-  <a href="https://twitter.com/deepseek_ai" target="_blank">
-    <img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-deepseek_ai-white?logo=x&logoColor=white" />
-  </a>
-
-</div>
-
-
-
-<p align="center">
-  <a href="https://huggingface.co/deepseek-ai/DeepSeek-OCR"><b>📥 Model Download</b></a> |
-  <a href="https://github.com/deepseek-ai/DeepSeek-OCR/blob/main/DeepSeek_OCR_paper.pdf"><b>📄 Paper Link</b></a> |
-  <a href="https://arxiv.org/abs/2510.18234"><b>📄 Arxiv Paper Link</b></a> |
-</p>
 
 <h2>
 <p align="center">
   <a href="">DeepSeek-OCR: Contexts Optical Compression</a>
 </p>
 </h2>
-
----
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
